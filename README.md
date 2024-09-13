@@ -1,14 +1,17 @@
 # Moon Heesun🤩
-<blockquote>
+
 Hi there! :)</br>
-I’m all about creating a world where everyone benefits from AI.</br>
-I love working with LLMs to solve problems, and I’m especially interested in learning more about RAG (Retrieval-Augmented Generation).
-</blockquote>   
+I’m all about creating a world where everyone benefits from AI🌿.</br>
+I love working with LLMs to solve problems, and I’m especially interested in learning more about *RAG (Retrieval-Augmented Generation)*.   
+
+📂 Check Out My Resume 👉 [Click Here!](https://my.surfit.io/w/257285212)   
+
+***
 
 ## 📌 Projects
 #### [**⭐RAG 활용 복지 제도 검색 서비스 개선**](https://github.com/SSiS-TeamB/RAG)   
 <details>
-   <summary>자세히 보기</summary>   
+   <summary>Details</summary>   
    <blockquote>(주)빅리더, 한국사회보장정보원 / 청년 AI 혁신 가드닝 프로그램 2023 / 2023.10 - 2023.12</blockquote>
       
    🗨️한국사회보장정보원에서 제공하는 복지 포털 '복지로'의 한계점을 보완하고자, RAG 시스템을 구현하여 Semantic Search가 가능하도록 함   
@@ -19,7 +22,7 @@ I love working with LLMs to solve problems, and I’m especially interested in l
 
 #### [**⭐RAG 활용 수주 규격 정보 추출 자동화 서비스**](https://github.com/SeAH-Besteel-RAG/RAG_before_refactoring)   
 <details>
-   <summary>자세히 보기</summary>   
+   <summary>Details</summary>   
    <blockquote>(주)빅리더, 세아베스틸 / 청년 AI 혁신 가드닝 프로그램 2023 / 2023.09 - 2023.10</blockquote>
       
    🗨️철강 제조 기업인 세아베스틸의 수많은 국내외 고객 기업으로부터 들어오는 불규칙한 양식과 언어로 작성된 수주 규격서에서 필요한 정보를 추출하는 과정을 자동화하고자, LLM을 활용하여 RAG 시스템 구축   
