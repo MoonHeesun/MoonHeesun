@@ -43,3 +43,5 @@ I love working with LLMs to solve problems, and I’m especially interested in l
 
 ***
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goddns0272)](https://solved.ac/goddns0272/)<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonHeesun&count_bg=%235700FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
