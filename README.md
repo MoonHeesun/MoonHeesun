@@ -4,8 +4,6 @@ Hi there! :)</br>
 I’m all about creating a world where everyone benefits from AI🌿.</br>
 I love working with LLMs to solve problems, and I’m especially interested in learning more about *RAG (Retrieval-Augmented Generation)*.   
 
-📂 Check Out My Resume 👉 [Click Here!](https://my.surfit.io/w/257285212)   
-
 ***
 
 ## 📌 Projects
