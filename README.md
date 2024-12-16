@@ -5,7 +5,6 @@ I’m all about creating a world where everyone benefits from AI🌿.</br>
 I love working with LLMs to solve problems, and I’m especially interested in learning more about *RAG (Retrieval-Augmented Generation)*.   
 
 ***
-
 ## 📌 Projects
 #### [**⭐RAG 활용 복지 제도 검색 서비스 개선**](https://github.com/SSiS-TeamB/RAG)   
 <details>
@@ -24,9 +23,9 @@ I love working with LLMs to solve problems, and I’m especially interested in l
    <blockquote>(주)빅리더, 세아베스틸 / 청년 AI 혁신 가드닝 프로그램 2023 / 2023.09 - 2023.10</blockquote>
       
    🗨️철강 제조 기업인 세아베스틸의 수많은 국내외 고객 기업으로부터 들어오는 불규칙한 양식과 언어로 작성된 수주 규격서에서 필요한 정보를 추출하는 과정을 자동화하고자, LLM을 활용하여 RAG 시스템 구축   
-</details>   
+</details><br>
 
-***
+<!-- ***
 ## 🔨Stack
 <div style="display:flex; flex-direction:row;">
   <div>
@@ -34,12 +33,14 @@ I love working with LLMs to solve problems, and I’m especially interested in l
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br>
-<!--     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </div>
-</div><br>
-
+</div><br> -->
+<!-- 
 ***
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goddns0272)](https://solved.ac/goddns0272/)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goddns0272)](https://solved.ac/goddns0272/)<br> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonHeesun&show_icons=true&theme=dracula)<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonHeesun&count_bg=%235700FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
