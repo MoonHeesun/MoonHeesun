@@ -4,7 +4,7 @@ Hi there! :)</br>
 I’m all about creating a world where everyone benefits from AI🌿.</br>
 I love working with LLMs to solve problems, and I’m especially interested in learning more about *RAG (Retrieval-Augmented Generation)*.   
 
-***
+<!-- ***
 ## 📌 Projects
 #### [**⭐RAG 활용 복지 제도 검색 서비스 개선**](https://github.com/SSiS-TeamB/RAG)   
 <details>
@@ -25,7 +25,7 @@ I love working with LLMs to solve problems, and I’m especially interested in l
    🗨️철강 제조 기업인 세아베스틸의 수많은 국내외 고객 기업으로부터 들어오는 불규칙한 양식과 언어로 작성된 수주 규격서에서 필요한 정보를 추출하는 과정을 자동화하고자, LLM을 활용하여 RAG 시스템 구축   
 </details><br>
 
-<!-- ***
+***
 ## 🔨Stack
 <div style="display:flex; flex-direction:row;">
   <div>
